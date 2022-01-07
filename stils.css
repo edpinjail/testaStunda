@@ -1,0 +1,33 @@
+body {
+background-color:grey;
+}
+h1 {
+	text-align: center;
+}
+img{
+  width:450px;
+  height:200px;
+}
+  .AAA{
+    text-align:center;
+     color: rgb(61, 61, 235);
+    }
+.AAA1{
+  text-align:center;
+  color: red;
+  font-size: 150%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.sani{
+margin-left:auto;
+margin-right:auto;
+width:800px;
+}
+table, td, th {
+  border: 1px solid black;
+}
